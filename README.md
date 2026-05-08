@@ -497,5 +497,5 @@ MIT License - Feel free to use for educational and commercial purposes.
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Aryan Pandey  
 **Last Updated**: 2026-05-08
