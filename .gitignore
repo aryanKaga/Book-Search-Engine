@@ -1,0 +1,29 @@
+# Virtual environments
+env/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Models / embeddings
+*.pt
+*.pth
+
+book_emb
+user_emb
+
+# Serialized files
+*.pkl
+
+# NumPy files
+*.npy
+
+# Images / plots
+*.png
+
+# Datasets
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
